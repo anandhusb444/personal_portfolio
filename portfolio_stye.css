@@ -26,7 +26,7 @@
     cursor:pointer;
     text-decoration: none;
 }
-/* main section*/
+
 .main h3{
     font-size: 4.4rem;
     font-weight: 700;
@@ -195,7 +195,6 @@ box-shadow: inset 1px -3px 176px -97px rgba(0,0,0,0.75);
 
 }
 
-/* Project Section */
 .card{
     -webkit-box-shadow: -8px 32px 185px -65px rgba(0,0,0,0.75);
 -moz-box-shadow: -8px 32px 185px -65px rgba(0,0,0,0.75);
